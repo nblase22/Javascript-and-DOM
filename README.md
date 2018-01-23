@@ -1,2 +1,5 @@
 # Javascript-and-DOM
-Homework 14 Data Visualization Bootcamp
+
+Code that will create a table dynamically based upon a UFO sightings dataset. Allows users to search through the table for specific pieces of information. 
+
+Utilizes Javascript, CSS, and HTML to create the table.
